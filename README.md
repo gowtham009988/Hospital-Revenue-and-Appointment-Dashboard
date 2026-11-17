@@ -1,3 +1,4 @@
+<img width="716" height="494" alt="Screenshot 2026-11-17 160847" src="https://github.com/user-attachments/assets/32cc647c-c41f-4ae3-8636-d789bdde299d" />
 # 🏥 Hospital Revenue and Appointment Dashboard | Excel
 
 ## 📌 Project Overview
